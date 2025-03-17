@@ -1,0 +1,2 @@
+Para que possa ser um app claro com dinamica temos que conter um mapa, que
+sera inicalizado por aqui
